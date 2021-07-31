@@ -30,7 +30,7 @@ def adminv():
 	try:
 		start = colored("admin", 'blue')
 		joker = raw_input(start+"\033[92m[!] Enter Your Domain \033[91m>")
-		sanfor = joker.replace("http://","").rsplit("/",1)[0] 
+		sanfor = Hackermachan.replace("http://","").rsplit("/",1)[0] 
 		situs = sanfor.lower()
 		for admin in admin_path:
 			admin = admin.replace("\n","")
