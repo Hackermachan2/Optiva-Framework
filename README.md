@@ -4,7 +4,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Windows,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# ***Author*** : Joker-Security [ dev-labs ] 
+# ***Author*** : Hackermachan [ dev-labs ] 
  ![](https://i.imgur.com/VESr2Et.jpg)
  
 # ✔️ ***Description***: 
@@ -86,17 +86,14 @@ $ python2 optiva.py
 <img src="https://i.imgur.com/PwmPoNh.png" width="40%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="40%"></img>
 <img src="https://i.imgur.com/TP4awyu.png" width="40%"></img><img src="https://i.imgur.com/A8dQGdj.png" width="40%"></img>
 
-## ✔️ ***Full video tutorial***:
-[![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/eF11o6yLlv8/hqdefault.jpg)](https://www.youtube.com/watch?v=eF11o6yLlv8&t=31s)
-## ✔️ ***video Termux tutorial***:
-[![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/RXQPgrIlRe4/hqdefault.jpg)](https://www.youtube.com/watch?v=RXQPgrIlRe4)
+## ✔️ ***Youtube channl***:
+[![  ](https://youtu.be/Eo7-aXDp8C4)
+
 ## ✔️ ***About*** :
 
-$ Twitter : https://twitter.com/SecurityJoker
+$ instagram : sajuuz_5
 
-$ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-$ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
+$ Youtube   : https://youtu.be/Eo7-aXDp8C4
 
 $ Tested On : Windows / Kali Linux /  Parrot Os / Ubuntu / Archman / ArcoLinux / Termux(Android)
 
