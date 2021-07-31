@@ -1,5 +1,5 @@
 #!/bin/bash
-# author : Joker-Security 
+# author : Hackermachan
 # Tested on Kali Linux / Parrot Os / Archman / ArcoLinux / Termux
 # Simple script for Install Optiva-Framework
 #Colors
