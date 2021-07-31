@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 #
-# Author  : Joker-Security
+# Author  : Hackermachan
 # Optiva-framework - Web application scanner
-# Twitter: https://twitter.com/SecurityJoker
-# Channel ; https://www.youtube.com/c/Professionalhacker25
-# FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
+# insta   : sajuuz_5
+# Channel ; https://youtu.be/Eo7-aXDp8C4
+# Dont forget to subscribe 
 
 
 #modules
@@ -55,13 +55,13 @@ def clear():
 
 class OptivaMain(object):
 	   
-	   def joker(self):
+	   def Hackermachan(self):
 		__version__ = '1.0.4'
-		__author__ = "Joker-Security"
-		__Github__ = "https://github.com/joker25000"
-		__Twitter__ = "https://twitter.com/SecurityJoker"
-		__Channel__ = "https://www.youtube.com/c/Professionalhacker25"
-		__Facebook__ = "https://facebook.com/kali.linux.pentesting.tutorials"
+		__author__ = "Hackermachan"
+		__Github__ = "https://github.com/Hackermachan2"
+		__instagram__ = "sajuuz_5"
+		__Channel__ = "https://youtu.be/Eo7-aXDp8C4"
+		__youtube__ = 'dont forget to subscribe
 		__date__ = datetime.datetime.now()
 		__tools__ = "15"
 
@@ -76,101 +76,101 @@ class OptivaMain(object):
 			    os.system('clear')
 			    Banner()
 			    GostBanner()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
 		    if github == 'version':
 		    	os.system('clear')
 		    	Banner()
 		    	GostBanner()
 		        print("\033[41mVersion: " + colored(__version__, 'white'))
-		        return Optiva.joker()
+		        return Optiva.Hackermachan()
 
 
 		    if github == 'banner':
 		         Banner()
 		         GostBanner()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 		    if github == 'xss':
 				 xssvu()
-				 return Optiva.joker()
+				 return Optiva.Hackermachan()
 
 		    if github == 'whois':
 		    	 whois()
-		    	 return Optiva.joker()
+		    	 return Optiva.Hackermachan()
 
 		    if github == 'iplocator':
 		         iploc()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 		    if github == 'dork':
 		         sdork()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 		    if github == 'rce':
 		    	 rceScan()
-		    	 return Optiva.joker()
+		    	 return Optiva.Hackermachan()
 
 		    if github == 'sql':
 		         sqlvuln()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 		    if github == 'info':
 		         infor()
-		         return Optiva.joker() 
+		         return Optiva.Hackermachan() 
 
 		    if github == 'admin':
 		         adminv()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 		    if github == 'md5':
 		    	 md5hash()
-		    	 return Optiva.joker()
+		    	 return Optiva.Hackermachan()
 
 		    if github == 'sha1':
 				 sha1hash()
-				 return Optiva.joker()
+				 return Optiva.Hackermachan()
 
 		    if github == 'show modules':
 			    modules()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
 		    if github == 'update':
 		         Optivaf()
-		         return Optiva.joker()
+		         return Optiva.Hackermachan()
 
 
 		    if github == 'SHA256':
 				 SHA256hash()
-				 return Optiva.joker()
+				 return Optiva.Hackermachan()
 
 		    if github == 'SHA384':
 				 SHA384hash()
-				 return Optiva.joker()
+				 return Optiva.Hackermachan()
 
 		    if github == 'SHA512':
 				 SHA512hash()
-				 return Optiva.joker()
+				 return Optiva.Hackermachan()
 
 		    if github == 'author':
 			    Gostauto()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
 		    if github == 'help':
 		    	cmd()
-		    	return Optiva.joker()
+		    	return Optiva.Hackermachan()
 
 		    elif github == 'port':
 			    port()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
 		    elif github == 'reverse':
 			    revip()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
 		    elif github == 'header':
 			    head()
-			    return Optiva.joker()
+			    return Optiva.Hackermachan()
 
                 except KeyboardInterrupt:
                         cprint("\n[!] You Press Ctrl + C! To Quit.", 'red')
@@ -188,4 +188,4 @@ if __name__ == "__main__":
 	Banner()
 	GostBanner()
 	Optiva = OptivaMain()
-	Optiva.joker()
+	Optiva.Hackermachan()
