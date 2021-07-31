@@ -38,7 +38,7 @@ You can use this Framework on your website to check the security of your website
 
 ## ✔️ ***Installation Linux*** :
 
-$ git clone https://github.com/joker25000/Optiva-Framework
+$ git clone https://github.com/Hackermachan/Optiva-Framework
 
 $ cd Optiva-Framework  
 
@@ -68,7 +68,7 @@ $ python optiva.py
 
 $ apt install git
 
-$ git clone https://github.com/joker25000/Optiva-Framework
+$ git clone https://github.com/Hackermachan/Optiva-Framework
 
 $ cd Optiva-Framework 
 
