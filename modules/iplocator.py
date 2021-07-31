@@ -8,7 +8,7 @@ from termcolor import colored, cprint
 
 def iploc():
 	start = colored("iplocator", 'blue')
-	joker=raw_input(start +"\033[93m [!] Enter Your Domain > ")
+	=raw_input(start +"\033[93m [!] Enter Your Domain > ")
 	url = "http://ip-api.com/json/"
 	reponse = urllib2.urlopen(url + joker)
 	name = reponse.read()
